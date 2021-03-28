@@ -1,0 +1,18 @@
+{
+	"Module Paths": {
+		"ThisWorkbook": "ThisWorkbook.cls",
+		"Sayfa1": "Sayfa1.cls",
+		"UserForm1": "UserForm1.frm",
+		"UserForm3": "UserForm3.frm",
+		"tur": "tur.frm",
+		"UserForm7": "UserForm7.frm",
+		"UserForm8": "UserForm8.frm",
+		"Sayfa5": "Sayfa5.cls",
+		"vize": "vize.frm",
+		"Sayfa6": "Sayfa6.cls",
+		"otel": "otel.frm",
+		"Sayfa7": "Sayfa7.cls",
+		"Sayfa8": "Sayfa8.cls",
+		"RAPOR": "RAPOR.frm"
+	}
+}
